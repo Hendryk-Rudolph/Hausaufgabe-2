@@ -1,0 +1,5 @@
+print('Diese Date ist für Aufgabe 3 des Moduls Nr 5')
+print('Die weiteren Befehle sind:')
+print('git status')
+print('git add .')
+print('git commit -m "Erster neuer Commit" -m "Das ist der erste Commit für die dritte Aufgabe"')
